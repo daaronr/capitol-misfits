@@ -1,0 +1,81 @@
+[
+  {
+    "id": "burn-ey-sanders",
+    "name": "Burn-ey Sanders",
+    "tagline": "Filibusters the sun",
+    "color": "#ffac40",
+    "paper": "#ffe0a9",
+    "alt": "A soot-smudged Bernie Sanders lectures a glaring sun while his microphone melts.",
+    "blurb": "The sun asked him to yield. He demanded a recorded vote.",
+    "stats": [["SPF applied", "0"], ["Microphones melted", "3"], ["Times he yielded", "0"]],
+    "person": "Bernie Sanders",
+    "facts": ["Vermont first elected Sanders to the U.S. Senate in 2006.", "He served as mayor of Burlington before going to Congress."],
+    "sources": [["Senate biography", "https://www.sanders.senate.gov/about-bernie/"]]
+  },
+  {
+    "id": "vd-jance",
+    "name": "V.D. Jance",
+    "tagline": "Springs a slime leak",
+    "color": "#ff8fbb",
+    "paper": "#ffcfdf",
+    "alt": "A startled JD Vance tries to plug a briefcase that is spraying green slime.",
+    "blurb": "The briefcase came with a lock, two keys, and a full gallon of ooze.",
+    "stats": [["Slime spilled", "1 gal"], ["Emergency socks", "1"], ["Dry documents", "0"]],
+    "person": "JD Vance",
+    "facts": ["Vance became the 50th U.S. vice president in 2025.", "He previously served in the U.S. Marine Corps."],
+    "sources": [["USAGov", "https://www.usa.gov/presidents"], ["White House biography", "https://www.whitehouse.gov/administration/jd-vance/"]]
+  },
+  {
+    "id": "howard-nutlick",
+    "name": "Howard Nutlick",
+    "tagline": "Chief pistachio inspector",
+    "color": "#dcf36a",
+    "paper": "#edf9b4",
+    "alt": "A grinning Howard Lutnick taste-tests the green kernel of a head-sized pistachio.",
+    "blurb": "Some people crack a pistachio to see what’s inside. Howard goes straight to the taste test.",
+    "stats": [["Shell diameter", "14 in"], ["Quality-control licks", "27"], ["Napkins on hand", "0"]],
+    "person": "Howard Lutnick",
+    "facts": ["Lutnick was sworn in as U.S. secretary of commerce on February 21, 2025."],
+    "sources": [["Swearing-in record", "https://www.govinfo.gov/app/details/DCPD-202500291"]],
+    "credit": ["Nickname inspired by Tim Miller of The Bulwark", "https://www.thebulwark.com/p/sam-stein-the-divorce"]
+  },
+  {
+    "id": "marco-rubble-o",
+    "name": "Marco Rubble-O",
+    "tagline": "Takes the floor literally",
+    "color": "#cfb4ff",
+    "paper": "#ebddff",
+    "alt": "Marco Rubio emerges from a crumbled lectern and manages to hold a glass of water upright.",
+    "blurb": "The lectern gave way halfway through his remarks. The water stayed in the glass.",
+    "stats": [["Lecterns lost", "1"], ["Rubble depth", "4 ft"], ["Water spilled", "0 drops"]],
+    "person": "Marco Rubio",
+    "facts": ["Rubio represented Florida in the U.S. Senate from 2011 to 2025.", "He served as speaker of the Florida House from 2006 to 2008."],
+    "sources": [["House historical biography", "https://history.house.gov/People/Detail/15032401309"]]
+  },
+  {
+    "id": "chuck-chummer",
+    "name": "Chuck Chummer",
+    "tagline": "Baits the chamber",
+    "color": "#7ae4d5",
+    "paper": "#bfefe5",
+    "alt": "Chuck Schumer ladles pink chum from a skiff as a shark fin approaches a floating gavel.",
+    "blurb": "He dropped his gavel overboard. Something in the pool voted aye.",
+    "stats": [["Chum deployed", "2 buckets"], ["Sharks present", "1"], ["Gavels recovered", "0"]],
+    "person": "Chuck Schumer",
+    "facts": ["New York first elected Schumer to the U.S. Senate in 1998.", "In 2021 he became the first New Yorker to serve as Senate majority leader."],
+    "sources": [["Senate biography", "https://www.schumer.senate.gov/about/biography"]]
+  },
+  {
+    "id": "ted-cruise",
+    "name": "Ted Cruise",
+    "tagline": "All aboard the snowboat",
+    "color": "#8dd9ff",
+    "paper": "#d4edff",
+    "alt": "Ted Cruz argues with a seagull from an inflatable boat stranded in a snowdrift.",
+    "blurb": "The brochure promised a heated pool. The pool would like to see that in writing.",
+    "stats": [["Miles sailed", "0"], ["Seagull complaints", "17"], ["Socks in sandals", "2"]],
+    "person": "Ted Cruz",
+    "facts": ["Cruz was sworn into the U.S. Senate in 2013.", "As Texas solicitor general, he argued eight cases before the U.S. Supreme Court."],
+    "sources": [["Senate biography", "https://www.cruz.senate.gov/about-ted"]]
+  }
+]
