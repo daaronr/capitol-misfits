@@ -182,7 +182,7 @@ def write_site(cards):
           <a class="action" href="#deck">Browse the cards ↓</a>
         </div>
         <a class="hero-feature" href="howard-nutlick/" aria-label="Open the Howard Nutlick card">
-          <img src="assets/howard-nutlick.webp" width="{WIDTH}" height="{HEIGHT}" alt="Howard Nutlick and his giant pistachio">
+          <img src="assets/howard-nutlick.webp" width="{WIDTH}" height="{HEIGHT}" alt="Howard Nutlick with two giant walnuts">
         </a>
       </div>
     </section>
@@ -216,7 +216,7 @@ def write_site(cards):
 """
     (DOCS / "index.html").write_text(shell(
         "Capitol Misfits", "Six gross-out political trading cards. Flip for made-up stats and sourced facts.",
-        "", "gallery", "Capitol Misfits trading cards featuring Howard Nutlick and a giant pistachio.", "", body
+        "", "gallery", "Capitol Misfits trading cards featuring Howard Nutlick and two giant walnuts.", "", body
     ), encoding="utf-8")
     for number, card in enumerate(cards, 1):
         e = escape
